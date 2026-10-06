@@ -121,7 +121,7 @@ Consistently practicing DSA and preparing for Software Engineering interviews.
 
 ## 🏆 Achievements
 
-- 🧠 **330+ DSA problems solved on LeetCode**
+- 🧠 **390+ DSA problems solved on LeetCode**
 - 🥇 **Smart India Hackathon 2025:** Top 7 among 68,000+ teams nationwide
 - 🏆 **Winner — Bug Buster:** Competitive debugging event at SJBIT
 - 💻 Participated in multiple hackathons
